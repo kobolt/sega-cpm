@@ -17,6 +17,10 @@ This project is a proof-of-concept that builds a special bank-switched CP/M cart
 * Works with [SG-Touzen](https://github.com/kobolt/sgtouzen) or a modified [MAME](https://www.mamedev.org/) or a modified [MEKA](https://www.smspower.org/meka/) emulator.
 * MAME and MEKA must be modified since no mapper exists for this cartridge.
 
+## Additional Information Links
+* [Blog: CP/M for Sega SG-1000/SC-3000](https://kobolt.github.io/article-233.html)
+* [YouTube: CP/M on Sega SC-3000](https://www.youtube.com/watch?v=vhEXx4vPP1A)
+
 ## Build
 The [zmac](http://48k.ca/zmac.html) Z80 assembler is required.
 Python 3 is used to merge everything into a banked ROM file.
